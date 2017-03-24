@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GomezA3</string>
+    <string name="mesa_college">Collège Mesa</string>
+    <string name="please_select_a_button">Veuillez sélectionner un bouton</string>
+    <string name="yahoo">Yahoo</string>
+    <string name="go">Aller</string>
+</resources>
